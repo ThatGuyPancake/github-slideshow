@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Obama is gone 🦀
 Use the left arrow to go back!
